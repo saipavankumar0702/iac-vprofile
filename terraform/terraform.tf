@@ -37,3 +37,4 @@ terraform {
 
 # first edit
 # modified URL in last step of terraform.yml
+# modifeid the URL before script
